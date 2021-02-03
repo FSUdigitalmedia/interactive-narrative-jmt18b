@@ -1,0 +1,27 @@
+:: StoryData
+{
+    "ifid": "A7E5B61E-161C-46AE-AFEA-5B1C806A658A",
+    "format": "SugarCube",
+    "format-version": "2.34.1"
+}
+
+:: StoryTitle
+Prisoners Escape
+
+:: Start 
+You are a prisoner
+You are told you are being transported to another facility in Madagascar
+
+[[Look to your right]]
+
+[[Look to your left]]
+
+:: Look to your right
+To your right is another prisoner
+Her name is Jessica
+
+:: Look to your left
+To your left, you look out the window
+The engine on the left wing of the plane is smoking profusely 
+You look at the flight crew, everyone with a panic on their face
+You're going to crash
