@@ -24,4 +24,13 @@ Her name is Jessica
 To your left, you look out the window
 The engine on the left wing of the plane is smoking profusely 
 You look at the flight crew, everyone with a panic on their face
-You're going to crash
+You're going to [[crash]]
+
+:: crash
+The flight crew is in panic as the plane decends to the ground
+There's only two parachutes, Jessica has taken one of them
+You have a decision to make:
+
+[[Take the last parachute]]
+
+[[Jump into the water]]
