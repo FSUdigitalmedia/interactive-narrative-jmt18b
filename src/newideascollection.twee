@@ -1,4 +1,4 @@
 :: ideas collection
-This is where you will improve the island through kids work
+The children have created <<print $myideascollection>> ideas to improve the village
 
-Count and make player earn ideas to move on
+[[create more ideas for the village|collect ideas]]

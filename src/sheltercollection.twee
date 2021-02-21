@@ -1,4 +1,8 @@
 :: shelter collection
-This is where you will put the increasing number of shelter collection
+Amount of materials being collected by children is...
 
-Count and make player work for it
+<<print $mysheltercollection>> items
+
+[[collect shelter materials|Collect shelter]]
+[[collect food|food collection]]
+[[create new ideas for village|ideas collection]]

@@ -1,4 +1,8 @@
 :: food collection
-This is where you will put how much food is being collected by the children
+Amount of food being collected by the children is...
 
-Count up so the player has to work for it
+<<print $myfoodcollection>> items
+
+[[Collect food]]
+[[Collect shelter materials|shelter collection]]
+[[Create new ideas for village|ideas collection]]

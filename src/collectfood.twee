@@ -1,0 +1,26 @@
+:: Collect food
+<<set $myfoodcollection += 2>>
+You just collected 2 items
+You now have <<print $myfoodcollection>> in the village
+
+[[collect more food|food collection]]
+[[collect shelter material|shelter collection]]
+[[create new ideas for village|ideas collection]]
+
+:: Collect shelter
+<<set $mysheltercollection += 3>>
+You just collected 3 items to contribute to the shelter
+You now have <<print $mysheltercollection>> in the village
+
+[[collect food|food collection]]
+[[collect more shelter materials|shelter collection]]
+[[create new ideas for village|ideas collection]]
+
+:: collect ideas
+<<set $myideascollection += 1>>
+They have created 1 new ideas
+They now have <<print $myideascollection>> ideas to improve the village
+
+[[collect food|food collection]]
+[[collect more shelter material|shelter collection]]
+[[create more ideas to improve the village|ideas collection]]

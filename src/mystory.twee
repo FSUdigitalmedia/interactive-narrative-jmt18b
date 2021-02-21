@@ -8,6 +8,14 @@
 :: StoryTitle
 Prisoners Escape
 
+:: StoryInit
+<<set $foodcollection to 0>>
+<<set $myfoodcollection to 0>>
+<<set $sheltercollection to 0>>
+<<set $mysheltercollection to 0>>
+<<set $ideascollection to 0>>
+<<set $myideascollection to 0>>
+
 :: Start 
 You are a prisoner
 You are told you are being transported to another facility in Madagascar
