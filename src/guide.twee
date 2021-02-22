@@ -1,9 +1,34 @@
 :: guide
 The survival guide:
-1. Drinking water can be found on the island. Boil first.
-2. Natural food can be found, berries, coconuts, and bananas. Make sure they're ripe.
-3. Animals and small creatues on land and sea can be eaten after cooking.
-4. Fire is necessary for survival. Create a bow drill out of sticks and planks.
-5. Create shelter using sturdy, stable materials you can find around the island
+1. Drinking water can be found on the island. [[Boil first|Boil]].
+2. Natural food can be found, berries, coconuts, and bananas. Make sure they're ripe. [[Collect ripe fruit|fruit]].
+3. Animals and small creatues on land and sea can be eaten after cooking. [[Try and cook a small crab|cook]].
+4. Fire is necessary for survival. [[Create a bow drill out of sticks and planks|bow drill]].
+5. Create shelter using sturdy, stable materials you can find around the island. [[Find sturdy materials|materials]].
 
 [[Lets get started!|shelter]]
+
+:: Boil
+Great! You boiled water!
+
+[[return to guide|guide]]
+
+:: fruit
+Good job! You collected blackberries and bananas that you can eat!
+
+[[return to guide|guide]]
+
+:: cook
+You cooked the crab to perfection!
+
+[[return to guide|guide]]
+
+:: bow drill
+You successfully made a bow drill! Time to make fire!
+
+[[return to guide|guide]]
+
+:: materials
+Congrats! You found some wood planks to start your shelter!
+
+[[return to guide|guide]]
