@@ -1,7 +1,10 @@
 :: Collect food
 <<set $myfoodcollection += 2>>
-You just collected 2 items
-You now have <<print $myfoodcollection>> in the village
+They just collected 2 items
+You all now have <<print $myfoodcollection>> items in the village
+<<if $myfoodcollection gte 8>>
+[[strong village]]
+<</if>>
 
 [[collect more food|food collection]]
 [[collect shelter material|shelter collection]]
@@ -9,8 +12,11 @@ You now have <<print $myfoodcollection>> in the village
 
 :: Collect shelter
 <<set $mysheltercollection += 3>>
-You just collected 3 items to contribute to the shelter
-You now have <<print $mysheltercollection>> in the village
+They just collected 3 items to contribute to the shelter
+You all now have <<print $mysheltercollection>> items in the village
+<<if $mysheltercollection gte 12>>
+[[strong village]]
+<</if>>
 
 [[collect food|food collection]]
 [[collect more shelter materials|shelter collection]]
@@ -19,7 +25,10 @@ You now have <<print $mysheltercollection>> in the village
 :: collect ideas
 <<set $myideascollection += 1>>
 They have created 1 new ideas
-They now have <<print $myideascollection>> ideas to improve the village
+You all now have <<print $myideascollection>> ideas to improve the village
+<<if $myideascollection gte 4>>
+[[strong village]]
+<</if>>
 
 [[collect food|food collection]]
 [[collect more shelter material|shelter collection]]
