@@ -15,7 +15,6 @@ Prisoners Escape
 <<set $mysheltercollection to 0>>
 <<set $ideascollection to 0>>
 <<set $myideascollection to 0>>
-<<set $numberyears to 0>>
 
 :: Start 
 You are a prisoner
