@@ -10,7 +10,7 @@ You have a decision to make:
 :: parachute
 As you go to grab the last parachute it turns into a tug-a-war with the pilot
 
-WHY IS HE NOT FLYING THE PLANE?!?!?!
+!WHY IS HE NOT FLYING THE PLANE?!?!?!
 
 You wrestle with him, for what feels like hours, and finally yank it out of his hands. 
 This was between life and death.
@@ -25,7 +25,13 @@ with your parachute attatched.
 
 As the ground approaches, your fingers fumble for the cord...
 
-[[Hurry! You have 20 seconds to pull the cord!|cord]]
+!!!Hurry! You have 15 seconds to pull the cord
+
+<<link "PULL CORD!">>
+<<if time() gt 15000>><<goto "death">>
+<<else>><<goto "cord">>
+<</if>>
+<</link>>
 
 :: jump
 You look over to take the parachute, it's gone. 
